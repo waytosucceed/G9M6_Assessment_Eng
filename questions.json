@@ -1,0 +1,275 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    
+  
+  {
+    "heading": "Interjections",
+    "questions": [
+      {
+        "questionNo": 1,
+        "story": "",
+        "question": "Select the interjection in the following sentence:<br><i>\"Goodness, I had no idea the presentation was due this morning.\"</i>",
+        "options": [
+          { "text": "Goodness" },
+          { "text": "idea" },
+          { "text": "presentation" },
+          { "text": "morning" }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 2,
+        "story": "",
+        "question": "What type of interjection is used in the following sentence?<br><i>\"Shh! The baby has just fallen asleep.\"</i>",
+        "options": [
+          { "text": "Emotive" },
+          { "text": "Cognitive" },
+          { "text": "Agreement" },
+          { "text": "Volitive" }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 3,
+        "story": "",
+        "question": "Identify the sentence that uses a word as a secondary interjection rather than its typical part of speech.",
+        "options": [
+          { "text": "\"Ouch! That injection was more painful than I expected.\"" },
+          { "text": "\"Wow! The view from the summit was unlike anything I had ever seen.\"" },
+          { "text": "\"Now, let us think this through before we make a decision we might regret.\"" },
+          { "text": "\"Yikes! I completely forgot to submit the assignment before the deadline.\"" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 4,
+        "story": "",
+        "question": "Which of the following interjections best demonstrates the use of regional slang in informal spoken English?",
+        "options": [
+          { "text": "\"Oh! You startled me.\"" },
+          { "text": "\"Wow! That was unexpected.\"" },
+          { "text": "\"Blimey! I did not see that coming at all.\"" },
+          { "text": "\"Ah! Now I understand what you meant.\"" }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Modifiers",
+    "questions": [
+      {
+        "questionNo": 5,
+        "story": "",
+        "question": "Identify the modifier in the following sentence:<br><i>\"The quietly spoken teacher explained the concept with remarkable patience.\"</i>",
+        "options": [
+          { "text": "teacher" },
+          { "text": "quietly spoken" },
+          { "text": "concept" },
+          { "text": "patience" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 6,
+        "story": "",
+        "question": "Which of the following sentences contains a misplaced modifier?",
+        "options": [
+          { "text": "Running through the park, she spotted a rare butterfly near the pond." },
+          { "text": "He returned the book to the library with a torn cover." },
+          { "text": "Balanced carefully on the edge, the vase caught everyone's attention." },
+          { "text": "Covered in mud, the children rushed through the back door after the game." }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 7,
+        "story": "",
+        "question": "Which of the following sentences contains a dangling modifier?",
+        "options": [
+          { "text": "Having studied all night, Maya felt confident going into the examination." },
+          { "text": "Exhausted after the long hike, the team set up camp near the river." },
+          { "text": "Laughing loudly at the joke, the children barely noticed the teacher enter." },
+          { "text": "Determined to meet the deadline, the project was completed two days early." }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 8,
+        "story": "",
+        "question": "Which of the following correctly rewrites this sentence to fix the misplaced modifier?<br><i>\"She found a note under the door from her neighbour.\"</i>",
+        "options": [
+          { "text": "Under the door, the note from her neighbour was found by her." },
+          { "text": "She found a note from her neighbour under the door." },
+          { "text": "Her neighbour's note was found by her under the door." },
+          { "text": "She found under the door a note from her neighbour." }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Active and Passive Voice",
+    "questions": [
+      {
+        "questionNo": 9,
+        "story": "",
+        "question": "A student is preparing for a grammar test and asks her teacher to help her identify which of the following is a correctly formed passive voice sentence.",
+        "options": [
+          { "text": "The documents sent to the wrong department by the intern last Tuesday." },
+          { "text": "The bridge was constructed over a period of five years by a team of engineers." },
+          { "text": "The contestants were cheer by the crowd throughout the entire performance." },
+          { "text": "The manager was approve the revised budget before the deadline." }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 10,
+        "story": "",
+        "question": "A teacher gives four sentences and says three share the same voice. One is the odd one out. Which sentence does NOT belong with the others?",
+        "options": [
+          { "text": "The letter was delivered to the wrong address by the courier." },
+          { "text": "The finalist presented her design to the panel of judges." },
+          { "text": "The garden was maintained by a team of volunteers throughout the year." },
+          { "text": "The new policy was announced by the principal at the start of term." }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 11,
+        "story": "",
+        "question": "A teacher writes this sentence on the board:<br><i>\"The scientists discovered a new species in the remote rainforest.\"</i><br>She asks two students to convert it into passive voice.<br><i>Marco writes: \"A new species was discovered in the remote rainforest by the scientists.\"<br>Leila writes: \"A new species was discover in the remote rainforest by the scientists.\"</i><br>Which student got it right?",
+        "options": [
+          { "text": "Only Marco" },
+          { "text": "Only Leila" },
+          { "text": "Both Marco and Leila" },
+          { "text": "Neither Marco nor Leila" }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 12,
+        "story": "",
+        "question": "A student attempts to convert the following passive sentence into active voice:<br><i>\"The annual prize was awarded to the winner by them.\"<br>The student writes: \"Them awarded the annual prize to the winner.\"</i><br>Which of the following is the correctly rewritten version?",
+        "options": [
+          { "text": "Them awarded the annual prize to the winner." },
+          { "text": "The annual prize awarded to the winner by them." },
+          { "text": "They awarded the annual prize to the winner." },
+          { "text": "They were awarding the annual prize to the winner." }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Direct and Indirect Speech",
+    "questions": [
+      {
+        "questionNo": 13,
+        "story": "",
+        "question": "A student is writing a story and shows her teacher four sentences. Which one is correctly punctuated?",
+        "options": [
+          { "text": "\"I can't believe we won the match\" she said." },
+          { "text": "\"I can't believe we won the match.\" she said." },
+          { "text": "\"I can't believe we won the match,\" she said." },
+          { "text": "\"I can't believe we won the match\", she said." }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 14,
+        "story": "",
+        "question": "A teacher gives four sentences and says three share the same form. One is the odd one out. Which sentence does NOT belong with the others?",
+        "options": [
+          { "text": "She mentioned that she had already spoken to the head of department." },
+          { "text": "They confirmed that the results would be published by the end of the week." },
+          { "text": "\"Nobody told me the meeting had been moved,\" he said quietly." },
+          { "text": "He explained that the train had been delayed due to bad weather." }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 15,
+        "story": "",
+        "question": "A teacher writes this sentence on the board:<br><i>\"We are leaving for the trip tomorrow morning,\" said the coach.</i><br>She asks the class to fill in the blank in the indirect version:<br><i>The coach said that they _______ for the trip the following morning.</i>",
+        "options": [
+          { "text": "are leaving" },
+          { "text": "were leaving" },
+          { "text": "have been leaving" },
+          { "text": "will be leaving" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 16,
+        "story": "",
+        "question": "A student converts the following sentence into indirect speech:<br><i>\"We have already submitted our report,\" said the managers.<br>The student writes: We said that we had already submitted our report.</i><br>Which option correctly rewrites it?",
+        "options": [
+          { "text": "The managers said that we had already submitted our report." },
+          { "text": "The managers said that they have already submitted their report." },
+          { "text": "The managers said that they had already submitted their report." },
+          { "text": "The managers said that them had already submitted their report." }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Distinguishing Facts from Opinions",
+    "questions": [
+      {
+        "questionNo": 17,
+        "story": "",
+        "question": "Which of the following is an opinion?",
+        "options": [
+          { "text": "The Great Wall of China stretches over twenty-one thousand kilometres in total length." },
+          { "text": "The human heart beats approximately seventy times per minute at rest." },
+          { "text": "Leonardo da Vinci was born in Italy in the year 1452." },
+          { "text": "Italian cuisine is undoubtedly the finest in the world and no other tradition can match it." }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 18,
+        "story": "",
+        "question": "Which of the following is a fact?",
+        "options": [
+          { "text": "The works of Shakespeare are far too difficult for students under the age of sixteen to appreciate." },
+          { "text": "Space exploration is a wasteful use of public funding that benefits very few people." },
+          { "text": "The Apollo 11 mission successfully landed on the Moon on the 20th of July, 1969." },
+          { "text": "History is the most important subject in any school curriculum because it teaches us who we are." }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 19,
+        "story": "",
+        "question": "A teacher writes the following sentence on the board:<br><i>\"Given the state of the economy, the government will almost certainly raise taxes before the end of the year.\"</i><br>She then asks why this is an opinion and not a fact.",
+        "options": [
+          { "text": "Because it is about the government, and statements about political decisions are always opinions" },
+          { "text": "Because it is a prediction about the future that cannot be proven true at the moment it is stated, even if supported by current evidence" },
+          { "text": "Because it does not name a specific country or a specific tax, making it too vague to qualify as a fact" },
+          { "text": "Because the word \"almost\" signals that the writer is not completely certain, which automatically makes the statement an opinion" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 20,
+        "story": "",
+        "question": "Read the following sentence:<br><i>\"The River Thames, which runs through London, is the most historically significant waterway in England.\"</i><br>Which part of the sentence is a fact and which part is an opinion?",
+        "options": [
+          { "text": "\"Runs through London\" is the opinion and \"most historically significant waterway\" is the fact" },
+          { "text": "Both parts are facts because they both describe the River Thames" },
+          { "text": "\"Runs through London\" is the fact and \"most historically significant waterway in England\" is the opinion" },
+          { "text": "Both parts are opinions because rivers change course and \"significant\" cannot be defined precisely" }
+        ],
+        "answer": 2
+      }
+    ]
+  
+
+                 
+      }
+  ]
+}
